@@ -9,7 +9,9 @@
 
 ## 🚀 About Me
 
-* 🎓 Currently studying **ASIR** (Administración de Sistemas Informáticos en Red).
+* 🎓 Graduated in **SMR** (Sistemas Microinformáticos y Redes).
+* 📚 Currently studying **ASIR** (Administración de Sistemas Informáticos en Red).
+* 🎓 Future Goal: University Degree in **Computer Engineering** or **Cybersecurity**.
 * 🎯 Focused on **Cybersecurity, Pentesting, and Red Teaming**.
 * 🧠 Believer in active learning, documentation, and critical thinking in IT.
 * ⚙️ Building a complete technical vault of notes, scripts, and labs in **Obsidian** synced to GitHub.
