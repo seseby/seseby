@@ -67,4 +67,4 @@
 
 ---
 
-&gt; *"Cuando las respuestas se vuelven baratas, el juicio se vuelve valioso."*
+&gt; *"Cuando las respuestas se vuelven baratas, el juicio se vuelve valioso."* [2]
