@@ -1,5 +1,5 @@
 # Hi there, I'm Seby (@seseby) 👋
-```html 
+
 <div align="center"> 
   <h3>🛡️ Cybersecurity &amp; Pentesting Enthusiast | 💻 ASIR Student</h3> 
   <p>Passionate about Systems Administration, Network Security, Ethical Hacking, and Automation.</p> 
