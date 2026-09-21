@@ -65,7 +65,7 @@
 ## 📫 Connect with me
 
 * 💼 **GitHub:** [@seseby](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fgithub.com%2Fseseby)
-* 📸 **Instagram:** [@sebytn](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Finstagram.com%2Fsebytn)
+* 📸 **Instagram:** [@sebytn](https://www.instagram.com/sebytn/)
 
 ---
 
