@@ -25,7 +25,10 @@
 ## 🛠️ Tech Stack &amp; Skills
 
 ### 🛡️ Cybersecurity &amp; Pentesting Tools
-
+![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat-square&amp;logo=nmap&amp;logoColor=white) 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white) 
+![Burp Suite](https://img.shields.io/badge/Burp\_Suite-FF6600?style=flat-square&amp;logo=burpsuite&amp;logoColor=white) 
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&amp;logo=metasploit&amp;logoColor=white)
 ### 🐧 Systems &amp; Networks
 
 ### 🌐 Protocols &amp; Web Development
