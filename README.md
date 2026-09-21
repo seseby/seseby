@@ -18,7 +18,7 @@
 
 ## 📌 Featured Repositories
 
-* 📚 [ASIR Vault](https://www.google.com/url?sa=E&amp;q=https%3A%2F%2Fgithub.com%2Fseseby%2FASIR): My public knowledge base with class notes, command cheat sheets (Linux, Bash, PowerShell, SQL), and system administration labs.
+* 📚 [ASIR Vault]( https://github.com/seseby/ASIR): My public knowledge base with class notes, command cheat sheets (Linux, Bash, PowerShell, SQL), and system administration labs.
 
 ---
 
