@@ -18,6 +18,14 @@
 
 ---
 
+## 📜 Certifications &amp; Courses 
+- 🐧 \*\*Introducción a Linux\*\* – [Hack4u.io](https://hack4u.io/) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black) ![Hack4u](https://img.shields.io/badge/Hack4u-s4vitar-red?style=flat-square)
+- 👨‍🏫 \*\*Instructor:\*\* Marcelo Vázquez (\*s4vitar\*)
+- ⏱️ \*\*Duración:\*\* 15 Horas | 📅 \*\*Expedición:\*\* 25 de Julio de 2023 | 🆔 \*\*ID:\*\* \`6001-3832-6868-2467\`
+- 📑 \*Adquisición de conocimientos esenciales para la administración, maniobra y gestión en sistemas Linux.\*
+
+---
+
 ## 📌 Featured Repositories
 
 * 📚 [ASIR Vault]( https://github.com/seseby/ASIR): My public knowledge base with class notes, command cheat sheets (Linux, Bash, PowerShell, SQL), and system administration labs.
