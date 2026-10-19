@@ -1,8 +1,7 @@
-# Hi, I'm Seby (@seseby) 👋
+# Seby👋
 
 <div align="center"> 
-  <h3>🛡️ Cybersecurity &amp; Pentesting Enthusiast | 💻 ASIR Student</h3> 
-  <p>Passionate about Systems Administration, Network Security, Ethical Hacking, and Automation.</p> 
+  <h3>🛡️ Cybersecurity &amp; Pentesting Enthusiast | 💻 Informático</h3> 
 </div>
 
 ---
