@@ -6,14 +6,11 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-* 🎓 Graduated in **SMR** (Sistemas Microinformáticos y Redes).
-* 📚 Currently studying **ASIR** (Administración de Sistemas Informáticos en Red).
-* 🎓 Future Goal: University Degree in **Computer Engineering** or **Cybersecurity**.
-* 🎯 Focused on **Cybersecurity, Pentesting, and Red Teaming**.
-* 🧠 Believer in active learning, documentation, and critical thinking in IT.
-* ⚙️ Building a complete technical vault of notes, scripts, and labs in **Obsidian** synced to GitHub.
+Graduado en grados de informática, apasionado por la ciberseguridad. 
+Mi objetivo es seguir formándome y especializarme en ciberseguridad.
+Creo en el aprendizaje continuo, la práctica y la documentación. Actualmente desarrollo mi propio repositorio de apuntes, scripts y laboratorios técnicos con Obsidian y GitHub.
 
 ---
 
