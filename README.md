@@ -14,7 +14,7 @@ Creo en el aprendizaje continuo, la práctica y la documentación. Actualmente d
 
 ---
 
-## 📜 Certifications &amp; Courses 
+## 📜 Certificaciones &amp; Cursos 
 - 🐧 **Introducción a Linux** – [Hack4u.io](https://hack4u.io/) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black) ![Hack4u](https://img.shields.io/badge/Hack4u-s4vitar-red?style=flat-square)
 - 👨‍🏫 **Instructor:** Marcelo Vázquez [S4vitar](https://github.com/s4vitar)
 - ⏱️ **Duración:** 15 Horas | 📅 **Expedición:** 25 de Julio de 2023 | 🆔 **ID:** `6001-3832-6868-2467`
