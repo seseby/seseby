@@ -23,17 +23,18 @@ Me gusta aprender mediante la práctica, documentar mis avances y desarrollar pr
 
 ## 📌 Featured Repositories
 
-* 📚 [ASIR Vault]( https://github.com/seseby/ASIR): My public knowledge base with class notes, command cheat sheets (Linux, Bash, PowerShell, SQL), and system administration labs.
+### 🛡️ [Cybersecurity Homelab](https://github.com/seseby/homelab-cybersecurity-portafolio)
+Linux security lab focused on system hardening, SSH security, UFW, Nginx HTTPS, Fail2ban, and automated backups.
+
+### 🔎 [CTF & Pentesting Writeups](https://github.com/seseby/Writeups)
+Documented cybersecurity lab walkthroughs covering reconnaissance, vulnerability analysis, exploitation, initial access, and privilege escalation.
+
+### 📚 [ASIR Vault](https://github.com/seseby/ASIR)
+Knowledge base with technical notes, command cheat sheets, and practical exercises covering Linux, networking, scripting, and system administration.
 
 ---
 
 ## 🛠️ Tech Stack &amp; Skills
-
-### 🛡️ Cybersecurity &amp; Pentesting Tools
-![Nmap](https://img.shields.io/badge/Nmap-00599C?style=flat-square&amp;logo=nmap&amp;logoColor=white) 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white) 
-![Burp Suite](https://img.shields.io/badge/Burp\_Suite-FF6600?style=flat-square&amp;logo=burpsuite&amp;logoColor=white) 
-![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&amp;logo=metasploit&amp;logoColor=white)
 ### 🐧 Systems &amp; Networks
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black) 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white) 
@@ -56,12 +57,13 @@ Me gusta aprender mediante la práctica, documentar mis avances y desarrollar pr
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
 ---
 
-## 🎯 Projects &amp; Roadmap
+## 🎯 Projects & Roadmap
 
-* [x] **ASIR Documentation Vault**: Obsidian vault with modular notes and command cheat sheets.
-* [ ] **Web Vulnerability Scanner**: Custom Python-based tool for basic reconnaissance and scanning.
-* [ ] **CTF Writeups &amp; Challenges**: Resolution and writeups of TryHackMe and HackTheBox machines.
-* [ ] **Security &amp; Tech Blog**: Articles on system administration, hardening, and pentesting.
+- [x] **ASIR Documentation Vault** — Technical notes and command cheat sheets.
+- [x] **Linux Security Homelab** — System hardening, firewall configuration, HTTPS, Fail2ban, and automated backups.
+- [x] **Pentesting Writeups** — Documented lab walkthroughs and privilege escalation techniques.
+- [x] **Wazuh Monitoring & Detection** — Expand the lab with security monitoring, alert analysis, and incident investigation.
+- [ ] **Python Security Tools** — Develop scripts for reconnaissance and security automation.
 
 ---
 
