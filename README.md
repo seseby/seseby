@@ -21,16 +21,16 @@ Me gusta aprender mediante la práctica, documentar mis avances y desarrollar pr
 
 ---
 
-## 📌 Featured Repositories
+## 📌 Repositorios destacados
 
 ### 🛡️ [Cybersecurity Homelab](https://github.com/seseby/homelab-cybersecurity-portafolio)
-Linux security lab focused on system hardening, SSH security, UFW, Nginx HTTPS, Fail2ban, and automated backups.
+Laboratorio de seguridad en Linux centrado en el hardening de sistemas, la seguridad SSH, el firewall UFW, HTTPS con Nginx, Fail2ban y las copias de seguridad automatizadas.
 
 ### 🔎 [CTF & Pentesting Writeups](https://github.com/seseby/Writeups)
-Documented cybersecurity lab walkthroughs covering reconnaissance, vulnerability analysis, exploitation, initial access, and privilege escalation.
+Documentación de laboratorios prácticos de pentesting, con análisis de vulnerabilidades, reconocimiento, explotación, acceso inicial y escalada de privilegios.
 
 ### 📚 [ASIR Vault](https://github.com/seseby/ASIR)
-Knowledge base with technical notes, command cheat sheets, and practical exercises covering Linux, networking, scripting, and system administration.
+Repositorio de apuntes técnicos, chuletas de comandos y prácticas de administración de sistemas, Linux, redes y scripting.
 
 ---
 
@@ -57,14 +57,13 @@ Knowledge base with technical notes, command cheat sheets, and practical exercis
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
 ---
 
-## 🎯 Projects & Roadmap
+## 🎯 Proyectos y hoja de ruta
 
-- [x] **ASIR Documentation Vault** — Technical notes and command cheat sheets.
-- [x] **Linux Security Homelab** — System hardening, firewall configuration, HTTPS, Fail2ban, and automated backups.
-- [x] **Pentesting Writeups** — Documented lab walkthroughs and privilege escalation techniques.
-- [x] **Wazuh Monitoring & Detection** — Expand the lab with security monitoring, alert analysis, and incident investigation.
-- [ ] **Python Security Tools** — Develop scripts for reconnaissance and security automation.
-
+- [x] **ASIR Vault**: repositorio de apuntes técnicos y comandos de administración de sistemas.
+- [x] **Laboratorio de ciberseguridad en Linux**: hardening, firewall, HTTPS, Fail2ban y copias de seguridad automatizadas.
+- [x] **Writeups de pentesting**: documentación de laboratorios, explotación de vulnerabilidades y escalada de privilegios.
+- [x] **Monitorización con Wazuh**: análisis de alertas, detección de actividad sospechosa e investigación de eventos de seguridad.
+- [ ] **Herramientas de seguridad en Python**: desarrollo de scripts para reconocimiento y automatización de tareas.
 ---
 
 ## 📫 Connect with me
