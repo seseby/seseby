@@ -8,9 +8,8 @@
 
 ## 🚀 Sobre mí
 
-Graduado en grados de informática, apasionado por la ciberseguridad. 
-Mi objetivo es seguir formándome y especializarme en ciberseguridad.
-Creo en el aprendizaje continuo, la práctica y la documentación. Actualmente desarrollo mi propio repositorio de apuntes, scripts y laboratorios técnicos con Obsidian y GitHub.
+Graduado en grados de informática, enfocado en la ciberseguridad y la administración de sistemas.
+Me gusta aprender mediante la práctica, documentar mis avances y desarrollar proyectos propios para ampliar mis conocimientos en seguridad informática.
 
 ---
 
