@@ -19,7 +19,8 @@ Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, enfoc
 Estoy desarrollando mis conocimientos mediante laboratorios prácticos de pentesting, hardening de Linux, análisis de vulnerabilidades web y monitorización de eventos de seguridad. Me gusta documentar los procedimientos, analizar los resultados y comprender tanto la explotación de vulnerabilidades como las medidas necesarias para mitigarlas.
 
 **Formación complementaria:** Introducción a Linux — Hack4u (15 horas).
-- 🐧 **Introducción a Linux** – [Hack4u.io](https://hack4u.io/) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black) ![Hack4u](https://img.shields.io/badge/Hack4u-s4vitar-red?style=flat-square)- 👨‍🏫 **Instructor:** Marcelo Vázquez [S4vitar](https://github.com/s4vitar)- ⏱️ **Duración:** 15 Horas | 📅 **Expedición:** 25 de Julio de 2023 | 🆔 **ID:** `6001-3832-6868-2467`- 📑 *Adquisición de conocimientos esenciales para la administración, maniobra y gestión en sistemas Linux.*
+- 🐧 **Introducción a Linux** – [Hack4u.io](https://hack4u.io/) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black) ![Hack4u](https://img.shields.io/badge/Hack4u-s4vitar-red?style=flat-square)
+- 👨‍🏫 **Instructor:** Marcelo Vázquez [S4vitar](https://github.com/s4vitar)
 
 ---
 
