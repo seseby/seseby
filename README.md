@@ -1,76 +1,109 @@
-# Seby👋
+# Seby 👋
 
-<div align="center"> 
-  <h3>🛡️ Cybersecurity &amp; Pentesting Enthusiast | 💻 Informático</h3> 
+<div align="center">
+
+### 🛡️ Ciberseguridad | Pentesting | Administración de Sistemas
+
+Enfocado en el aprendizaje práctico, los laboratorios y la documentación técnica.
+
+🎯 **Objetivo: oportunidad junior en IT o ciberseguridad**
+
 </div>
 
 ---
 
 ## 🚀 Sobre mí
 
-Graduado en grados de informática, enfocado en la ciberseguridad y la administración de sistemas.
-Me gusta aprender mediante la práctica, documentar mis avances y desarrollar proyectos propios para ampliar mis conocimientos en seguridad informática.
+Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, enfocado en la ciberseguridad y la administración de sistemas.
+
+Estoy desarrollando mis conocimientos mediante laboratorios prácticos de pentesting, hardening de Linux, análisis de vulnerabilidades web y monitorización de eventos de seguridad. Me gusta documentar los procedimientos, analizar los resultados y comprender tanto la explotación de vulnerabilidades como las medidas necesarias para mitigarlas.
+
+**Formación complementaria:** Introducción a Linux — Hack4u (15 horas).
 
 ---
 
-## 📜 Certificaciones &amp; Cursos 
-- 🐧 **Introducción a Linux** – [Hack4u.io](https://hack4u.io/) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black) ![Hack4u](https://img.shields.io/badge/Hack4u-s4vitar-red?style=flat-square)
-- 👨‍🏫 **Instructor:** Marcelo Vázquez [S4vitar](https://github.com/s4vitar)
-- ⏱️ **Duración:** 15 Horas | 📅 **Expedición:** 25 de Julio de 2023 | 🆔 **ID:** `6001-3832-6868-2467`
-- 📑 *Adquisición de conocimientos esenciales para la administración, maniobra y gestión en sistemas Linux.*
-
----
-
-## 📌 Repositorios destacados
+## 📌 Proyectos destacados
 
 ### 🛡️ [Cybersecurity Homelab](https://github.com/seseby/homelab-cybersecurity-portafolio)
-Laboratorio de seguridad en Linux centrado en el hardening de sistemas, la seguridad SSH, el firewall UFW, HTTPS con Nginx, Fail2ban y las copias de seguridad automatizadas.
+
+Laboratorio de ciberseguridad defensiva en Linux que incluye:
+
+- Hardening de SSH y configuración del firewall UFW.
+- Configuración de HTTPS con Nginx.
+- Protección frente a ataques de fuerza bruta con Fail2ban.
+- Automatización de copias de seguridad.
 
 ### 🔎 [CTF & Pentesting Writeups](https://github.com/seseby/Writeups)
-Documentación de laboratorios prácticos de pentesting, con análisis de vulnerabilidades, reconocimiento, explotación, acceso inicial y escalada de privilegios.
+
+**6 writeups publicados** sobre laboratorios de pentesting y retos de seguridad en entornos controlados.
+
+- SQL Injection y análisis de vulnerabilidades web.
+- Bypass de autenticación y análisis de mecanismos MFA.
+- Enumeración y explotación de vulnerabilidades.
+- Documentación de evidencias técnicas, impacto y recomendaciones de mitigación.
 
 ### 📚 [ASIR Vault](https://github.com/seseby/ASIR)
-Repositorio de apuntes técnicos, chuletas de comandos y prácticas de administración de sistemas, Linux, redes y scripting.
+
+Repositorio de apuntes y documentación técnica sobre administración de sistemas, Linux, redes y scripting.
 
 ---
 
-## 🛠️ Tech Stack &amp; Skills
-### 🐧 Systems &amp; Networks
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black) 
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white) 
-![Windows Server](https://img.shields.io/badge/Windows\_Server-0078D6?style=flat-square&amp;logo=windows&amp;logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&amp;logo=powershell&amp;logoColor=white) 
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=GNU%20Bash&amp;logoColor=white)
-### 🌐 Protocols &amp; Web Development
-![TCP/IP](https://img.shields.io/badge/Networking-TCP%2FIP%20%7C%20DNS%20%7C%20VPN-blue?style=flat-square) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white)
-### 💻 Programming &amp; Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white) 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white)
-### 📝 PKM &amp; Version Control
-![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&amp;logo=obsidian&amp;logoColor=white) 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white) 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
----
+## 🛠️ Tecnologías y herramientas
 
-## 🎯 Proyectos y hoja de ruta
+### 🐧 Sistemas y redes
 
-- [x] **ASIR Vault**: repositorio de apuntes técnicos y comandos de administración de sistemas.
-- [x] **Laboratorio de ciberseguridad en Linux**: hardening, firewall, HTTPS, Fail2ban y copias de seguridad automatizadas.
-- [x] **Writeups de pentesting**: documentación de laboratorios, explotación de vulnerabilidades y escalada de privilegios.
-- [x] **Monitorización con Wazuh**: análisis de alertas, detección de actividad sospechosa e investigación de eventos de seguridad.
-- [ ] **Herramientas de seguridad en Python**: desarrollo de scripts para reconocimiento y automatización de tareas.
----
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=flat-square&logo=windows&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-## 📫 Connect with me
+### 🔐 Ciberseguridad
 
-* 💼 **GitHub:** [@seseby](https://github.com/seseby)
-* 📸 **Instagram:** [@sebytn](https://www.instagram.com/sebytn/)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-214478?style=flat-square)
+![Wazuh](https://img.shields.io/badge/Wazuh-3AABE6?style=flat-square&logo=wazuh&logoColor=white)
+![SQLmap](https://img.shields.io/badge/sqlmap-4479A1?style=flat-square)
+![Fail2ban](https://img.shields.io/badge/Fail2ban-333333?style=flat-square)
+
+### 🌐 Redes y desarrollo web
+
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-blue?style=flat-square)
+![DNS](https://img.shields.io/badge/DNS-blue?style=flat-square)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+### 💻 Programación y herramientas de trabajo
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
 
 ---
 
- *"Cuando las respuestas se vuelven baratas, el juicio se vuelve valioso."*
+## 🎯 Objetivos de aprendizaje
+
+- [x] Laboratorio de hardening y seguridad en Linux.
+- [x] Documentación de laboratorios de pentesting.
+- [x] Prácticas de monitorización e investigación de alertas con Wazuh.
+- [ ] Desarrollo de herramientas de seguridad con Python.
+- [ ] Profundización en pentesting web y metodologías de evaluación de seguridad.
+
+---
+
+## 📫 Contacto
+
+- 💼 **LinkedIn:** [Sebastian Cristea](https://www.linkedin.com/in/sebastian-cristea-10438a1b5/)
+- 📧 **Email:** [sebastiaionut@gmail.com](mailto:sebastiaionut@gmail.com)
+- 💻 **GitHub:** [@seseby](https://github.com/seseby)
+
+---
+
+<div align="center">
+
+*"Cuando las respuestas se vuelven baratas, el juicio se vuelve valioso."*
+
+</div>
