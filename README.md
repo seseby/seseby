@@ -6,15 +6,11 @@
 
 Enfocado en el aprendizaje práctico, los laboratorios y la documentación técnica.
 
-🎯 **Objetivo: oportunidad junior en IT o ciberseguridad**
-
 </div>
 
 ---
 
 ## 🚀 Sobre mí
-
-Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**, enfocado en la ciberseguridad y la administración de sistemas.
 
 Estoy desarrollando mis conocimientos mediante laboratorios prácticos de pentesting, hardening de Linux, análisis de vulnerabilidades web y monitorización de eventos de seguridad. Me gusta documentar los procedimientos, analizar los resultados y comprender tanto la explotación de vulnerabilidades como las medidas necesarias para mitigarlas.
 
