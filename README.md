@@ -95,7 +95,6 @@ Repositorio de apuntes y documentación técnica sobre administración de sistem
 ## 📫 Contacto
 
 - 💼 **LinkedIn:** [Sebastian Cristea](https://www.linkedin.com/in/sebastian-cristea-10438a1b5/)
-- 📧 **Email:** [sebastiaionut@gmail.com](mailto:sebastiaionut@gmail.com)
 - 💻 **GitHub:** [@seseby](https://github.com/seseby)
 
 ---
