@@ -1,15 +1,3 @@
-[![header](header.svg)](https://github.com/seseby)
-
-[![about](about.svg)](https://github.com/seseby)
-
-[![skills](skills.svg)](https://github.com/seseby)
-
-[![stats](gh-stats.svg)](https://github.com/seseby)
-
-[![Footer](footer.svg)](https://seseby.github.io/)
-
-[GitHub](https://github.com/seseby) · [LinkedIn](https://www.linkedin.com/in/sebastian-cristea-10438a1b/)
-
 <div align="center">
 
 ### 🛡️ Ciberseguridad | Pentesting | Administración de Sistemas
