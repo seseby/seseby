@@ -33,7 +33,7 @@ Laboratorio de ciberseguridad defensiva en Linux que incluye:
 
 ### 🔎 [CTF & Pentesting Writeups](https://github.com/seseby/Writeups)
 
-**6 writeups publicados** sobre laboratorios de pentesting y retos de seguridad en entornos controlados.
+**writeups publicados** sobre laboratorios de pentesting y retos de seguridad en entornos controlados.
 
 - SQL Injection y análisis de vulnerabilidades web.
 - Bypass de autenticación y análisis de mecanismos MFA.
@@ -42,7 +42,7 @@ Laboratorio de ciberseguridad defensiva en Linux que incluye:
 
 ### 📚 [ASIR Vault](https://github.com/seseby/ASIR)
 
-Repositorio de apuntes y documentación técnica sobre administración de sistemas, Linux, redes y scripting.
+Repositorio de proyectos sobre administración de sistemas, Linux, redes y scripting.
 
 ---
 
@@ -82,25 +82,8 @@ Repositorio de apuntes y documentación técnica sobre administración de sistem
 
 ---
 
-## 🎯 Objetivos de aprendizaje
-
-- [x] Laboratorio de hardening y seguridad en Linux.
-- [x] Documentación de laboratorios de pentesting.
-- [x] Prácticas de monitorización e investigación de alertas con Wazuh.
-- [ ] Desarrollo de herramientas de seguridad con Python.
-- [ ] Profundización en pentesting web y metodologías de evaluación de seguridad.
-
----
-
 ## 📫 Contacto
 
-- 💼 **LinkedIn:** [Sebastian Cristea](https://www.linkedin.com/in/sebastian-cristea-10438a1b5/)
+- 💼 **LinkedIn:** [Sebastian Cristea](https://www.linkedin.com/in/sebastiancristeaa)
 - 💻 **GitHub:** [@seseby](https://github.com/seseby)
 
----
-
-<div align="center">
-
-*"Cuando las respuestas se vuelven baratas, el juicio se vuelve valioso."*
-
-</div>
