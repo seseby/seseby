@@ -1,4 +1,4 @@
-[![fastfetch](banner.svg)
+[![fastfetch](banner.svg)]
 
 <div align="center">
 
