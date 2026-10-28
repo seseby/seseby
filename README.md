@@ -1,4 +1,4 @@
-[![fastfetch](./assets/banner.svg)](https://github.com/seseby)
+[![fastfetch](file:///C:/Users/sebas/Downloads/banner.svg)
 
 <div align="center">
 
