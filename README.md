@@ -6,7 +6,7 @@
 
 [![stats](gh-stats.svg)](https://github.com/seseby)
 
-[![footer](footer.svg)](https://github.com/seseby)
+[![footer](footer.svg)]
 
 <div align="center">
 
