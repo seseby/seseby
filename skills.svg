@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="266" viewBox="0 0 800 266">
+  <style>
+    text { font-family: ui-monospace, "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace; }
+    @keyframes blink { 0%,49% { opacity: 1 } 50%,100% { opacity: 0 } }
+    .cursor { animation: blink 1s steps(1) infinite }
+  </style>
+  <rect width="100%" height="100%" fill="#000000" rx="14" ry="14"/>
+  
+  <rect x="0" y="0" width="800" height="28" fill="#000000" rx="14" ry="14"/>
+  <rect x="0" y="14" width="800" height="14" fill="#000000"/>
+  <line x1="0" y1="28" x2="800" y2="28" stroke="#5a5a64" stroke-width="0.5" stroke-opacity="0.4"/>
+  <g opacity="0.55">
+    <circle cx="22" cy="14" r="5.5" fill="#ff5f57"/>
+    <circle cx="40" cy="14" r="5.5" fill="#febc2e"/>
+    <circle cx="58" cy="14" r="5.5" fill="#28c840"/>
+  </g>
+  <text x="400" y="15" fill="#5a5a64" font-family="ui-monospace, monospace" font-size="11" text-anchor="middle" dominant-baseline="middle">~/skills</text>
+
+  <!-- Command line -->
+  <text x="40" y="76.5" fill="#4ade80" font-size="14" dominant-baseline="middle">$</text>
+  <text x="62" y="76.5" fill="#ffffff" font-size="14" dominant-baseline="middle">which --skills</text>
+
+  <!-- Output marker -->
+  <text x="40" y="99.5" fill="#5a5a64" font-size="14" dominant-baseline="middle">→</text>
+  <text x="62" y="99.5" fill="#5a5a64" font-size="14" dominant-baseline="middle">12 matches</text>
+
+  <!-- Chips -->
+  <text class="tchip0" x="62" y="138.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Linux ]</text>
+  <text class="tchip1" x="146" y="138.5" fill="#ffffff" font-size="14" dominant-baseline="middle">[ Windows ]</text>
+  <text class="tchip2" x="246" y="138.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Nmap ]</text>
+  <text class="tchip3" x="321" y="138.5" fill="#ffffff" font-size="14" dominant-baseline="middle">[ Burp Suite ]</text>
+  <text class="tchip4" x="447" y="138.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Log Analysis ]</text>
+  <text class="tchip5" x="589" y="138.5" fill="#ffffff" font-size="14" dominant-baseline="middle">[ Networking ]</text>
+  <text class="tchip6" x="62" y="173.5" fill="#ffffff" font-size="14" dominant-baseline="middle">[ SSH ]</text>
+  <text class="tchip7" x="129" y="173.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ SIEM ]</text>
+  <text class="tchip8" x="204" y="173.5" fill="#ffffff" font-size="14" dominant-baseline="middle">[ Web Pentesting ]</text>
+  <text class="tchip9" x="363" y="173.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Kali Linux ]</text>
+  <text class="tchip10" x="489" y="173.5" fill="#ffffff" font-size="14" dominant-baseline="middle">[ TCP/IP ]</text>
+  <text class="tchip11" x="581" y="173.5" fill="#4ade80" font-size="14" dominant-baseline="middle">[ Obsidian ]</text>
+  
+
+  <!-- Trailing prompt + cursor -->
+  <text x="40" y="227.5" fill="#4ade80" font-size="14" dominant-baseline="middle">$</text>
+  <rect class="cursor" x="62" y="219" width="8" height="15" fill="#ffffff"/>
+</svg>
