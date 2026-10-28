@@ -1,4 +1,4 @@
-[![banner](banner(2).svg)](https://github.com/seseby)
+[![banner](banner2.svg)](https://github.com/seseby)
 
 [![fastfetch](banner.svg)](https://github.com/seseby)
 
