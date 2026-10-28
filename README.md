@@ -1,3 +1,5 @@
+[![header](header.svg)](https://github.com/seseby)
+
 [![fastfetch](banner.svg)](https://github.com/seseby)
 
 <div align="center">
