@@ -35,7 +35,7 @@ Laboratorio de ciberseguridad defensiva en Linux que incluye:
 
 ### 🔎 [CTF & Pentesting Writeups](https://github.com/seseby/Writeups)
 
-**writeups publicados** sobre laboratorios de pentesting y retos de seguridad en entornos controlados.
+**Writeups publicados** sobre laboratorios de pentesting y retos de seguridad en entornos controlados.
 
 - SQL Injection y análisis de vulnerabilidades web.
 - Bypass de autenticación y análisis de mecanismos MFA.
