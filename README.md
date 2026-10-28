@@ -1,6 +1,12 @@
 [![header](header.svg)](https://github.com/seseby)
 
-[![fastfetch](banner.svg)](https://github.com/seseby)
+[![about](about.svg)](https://github.com/seseby)
+
+[![skills](skills.svg)](https://github.com/seseby)
+
+[![stats](gh-stats.svg)](https://github.com/seseby)
+
+[![footer](footer.svg)](https://github.com/seseby)
 
 <div align="center">
 
