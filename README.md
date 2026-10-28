@@ -6,7 +6,9 @@
 
 [![stats](gh-stats.svg)](https://github.com/seseby)
 
-[![footer](footer.svg)]
+[![Footer](footer.svg)](https://seseby.github.io/)
+
+[GitHub](https://github.com/seseby) · [LinkedIn](https://www.linkedin.com/in/sebastian-cristea-10438a1b/)
 
 <div align="center">
 
