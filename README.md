@@ -1,4 +1,4 @@
-# Seby 👋
+[![fastfetch](./assets/banner.svg)](https://github.com/seseby)
 
 <div align="center">
 
